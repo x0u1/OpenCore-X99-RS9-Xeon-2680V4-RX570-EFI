@@ -1,5 +1,7 @@
 # OpenCore-X99-RS9-Xeon-2680V4-RX570-EFI
 
+![Logo](https://github.com/user-attachments/assets/516310ad-0e8c-48df-868e-6d8a76dbe463)
+
 # Specs:
 
 |         Hardware       |                   Model                     | 
